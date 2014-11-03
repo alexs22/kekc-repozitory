@@ -1,5 +1,5 @@
-arset=UTF-8' http-equiv='Content-type'>
+<!DOCTYPE html>
 <meta content='width=device-width, initial-scale=1.0' name='viewport'>
-<meta content='app-id=927194858' name='apple-itunes-app'>
+<meta content='app-id=927194859' name='apple'>
 <meta content="authenticity_token" name="csrf-param" />
 <meta content="SndNLZDmFqcddgc4iC7hlkSzcStSnY4/GvXqaYVvOTc=" name="csrf-token" />
